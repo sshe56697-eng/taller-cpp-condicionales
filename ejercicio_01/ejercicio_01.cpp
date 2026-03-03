@@ -1,7 +1,9 @@
 #include <iostream>
 int main () {
-double celcious_value;
-std::<<""
+double temperature;
+std::<<"Enter C temperature"
+scin::>> temperature;
+
 
 
     return 0;
