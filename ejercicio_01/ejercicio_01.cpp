@@ -10,7 +10,7 @@ double R = (temperature + 273.15) * 9/5;
 
 std::cout << std::fixed << std::setprecision(2);
 std::cout << "Equals to: " << F << "° Fahrenheit" << std::endl;
-std::cout << "Equals to: " << K << "Kelvin" << std::endl;
+std::cout << "Equals to: " << K << " Kelvin" << std::endl;
 std::cout << "Equals to: " << R << "° Rankine" << std::endl;
 
 
